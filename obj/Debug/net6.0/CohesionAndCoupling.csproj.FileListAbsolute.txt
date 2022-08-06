@@ -1,0 +1,15 @@
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/bin/Debug/net6.0/CohesionAndCoupling
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/bin/Debug/net6.0/CohesionAndCoupling.deps.json
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/bin/Debug/net6.0/CohesionAndCoupling.runtimeconfig.json
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/bin/Debug/net6.0/CohesionAndCoupling.dll
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/bin/Debug/net6.0/CohesionAndCoupling.pdb
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.csproj.AssemblyReference.cache
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.AssemblyInfoInputs.cache
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.AssemblyInfo.cs
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.csproj.CoreCompileInputs.cache
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.dll
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/refint/CohesionAndCoupling.dll
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.pdb
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/CohesionAndCoupling.genruntimeconfig.cache
+/Users/aycabozyel/Desktop/source/CohesionAndCoupling/obj/Debug/net6.0/ref/CohesionAndCoupling.dll
